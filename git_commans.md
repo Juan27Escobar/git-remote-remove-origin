@@ -14,8 +14,8 @@ git branch: te permite crear, enumerar y eliminar ramas, así como cambiar su no
 
 git add: este comando añade un cambio del directorio de trabajo en el entorno de ensayo
 
-git commit:
+git commit: captura una instantánea de los cambios preparados en ese momento del proyecto
 
-git push:
+git push: se usa para cargar contenido del repositorio local a un repositorio remoto
 
-git merge:
+git merge: se utiliza para fusionar uno o más ramas dentro de la rama que tienes activa
